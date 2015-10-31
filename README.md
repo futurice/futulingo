@@ -18,6 +18,8 @@ The sub-directories (such as "greetings") contains all the recorded audio for th
 
 Each audio file is named based on the word/phrase in english, and suffixed by an incremental id. 
 
+The actual vocabulary mapping is still missing from this project. This is intentional, it will be added soon when the project goes public. It is currently being reviewed outside GitHub.  
+
 ## Contributors
 
 The following people have contributed to this audio course. 
