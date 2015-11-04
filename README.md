@@ -6,19 +6,21 @@ The word and phrase set is based on the Refugee Phrasebook (http://www.refugeeph
 
 The audio has been recorded at Futurice premises in Helsinki and in Tampere. In Helsinki the recording was done in the FutuCafé using Audio-Technica AT2020USB mic and Ableton Live 9 software. Audio editing was done in Audacity and Adobe Audition.
 
+The materials have been used to create this online course: http://www.memrise.com/course/858328/
+
 See LICENSE.md for the licensing detail (spoiler: it's permissive). 
 
 This project is currently coordinated by ttur @ futurice.com.
 
 ## Structure
 
+The word/phrase mappings MSA-Finnish-English are available at the project root in XLSX and ODT formats.
+
 The "audio" directory contains sub-directories for each word/phrase category.
 
-The sub-directories (such as "greetings") contains all the recorded audio for that category.
+The sub-directories (such as "greetings") then contains all the recorded audio for that category.
 
 Each audio file is named based on the word/phrase in english, and suffixed by an incremental id. 
-
-The actual vocabulary mapping is still missing from this project. This is intentional, it will be added soon when the project goes public. It is currently being reviewed outside GitHub.  
 
 ## Contributors
 
