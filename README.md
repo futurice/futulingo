@@ -22,6 +22,12 @@ The sub-directories (such as "greetings") then contains all the recorded audio f
 
 Each audio file is named based on the word/phrase in english, and suffixed by an incremental id. 
 
+## Contributing
+
+We have not yet decided what to do next, so unless there are clear errors in these materials, we are unlikely to accept contributions right now.
+
+You are very welcome to fork this repo and expand it for your own purposes! Please mind the ShareAlike license though, if you do. 
+
 ## Contributors
 
 The following people have contributed to this audio course. 
