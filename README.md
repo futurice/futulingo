@@ -4,7 +4,7 @@ The materials (text and audio) for the Futurice open source language course mate
 
 The word and phrase set is based on the Refugee Phrasebook (http://www.refugeephrasebook.de/). The vocabulary has been extended a bit.
 
-The audio has been recorded at Futurice premises in Helsinki and Tampere. In Helsinki the recording was done using Audio-Technica AT2020USB mic and Ableton Live 9 software. Audio editing was done in Audacity and Adobe Audition.
+The audio has been recorded at Futurice premises in Helsinki and in Tampere. In Helsinki the recording was done at FutuCafé using Audio-Technica AT2020USB mic and Ableton Live 9 software. Audio editing was done in Audacity and Adobe Audition.
 
 See LICENSE.md for the licensing detail (spoiler: it's permissive). 
 
